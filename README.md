@@ -1,7 +1,3 @@
-<p align="center">
-![](https://komarev.com/ghpvc/?username=mheriyanto&style=flat)
-<p>
-
 <a align="center" href="https://mheriyanto.github.io">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mheriyanto&count_private=true&show_icons=true&theme=gotham" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheriyanto&layout=compact&theme=gotham" alt="languages" height="165">
