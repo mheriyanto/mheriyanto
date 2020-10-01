@@ -1,3 +1,6 @@
+**Hi You!** :wave:  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmheriyanto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <a align="center" href="https://mheriyanto.github.io">
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mheriyanto&count_private=true&show_icons=true&theme=gotham" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheriyanto&layout=compact&theme=gotham" alt="languages" height="165">
