@@ -30,4 +30,8 @@ I'm an **AI Researcher** who research and develop software using deep learning i
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arshiamidos" height="20" width="20" />
 </a>
 
+<a href="https://www.youtube.com/channel/UCGPpspS9Gqmm4eMiOk-gGHw" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arshiamidos" height="20" width="20" />
+</a>
+
 </p>
