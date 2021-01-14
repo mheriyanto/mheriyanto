@@ -18,31 +18,31 @@ I'm an **Junior AI Researcher** who try to research and develop software using d
 <p align="center">
 
 <a href="https://dev.to/mheriyanto" target="blank">
-<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/main/icons/dev.png?raw=true" alt="mheriyanto" height="20" width="20" />
+<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/dev.png?raw=true" height="30" width="30" />
 </a>
 
 <a href="https://mheriyanto.github.io" target="blank">
-<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/main/icons/wordpress.png?raw=true" alt="mheriyanto" height="20" width="20" />
+<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/wordpress.png?raw=true" height="30" width="30" />
 </a>
 
 <a href="https://medium.com/@mheriyanto" target="blank">
-<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/main/icons/medium.png?raw=true" alt="mheriyanto" height="20" width="20" />
+<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/medium.png?raw=true" height="30" width="30" />
 </a>
 
 <a href="https://linkedin.com/in/mheriyanto" target="blank">
-<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/main/icons/linkedin.png?raw=true" alt="mheriyanto" height="20" width="20" />
+<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/linkedin.png?raw=true" height="30" width="30" />
 </a>
 
 <a href="https://github.com/mheriyanto" target="blank">
-<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/main/icons/github.png?raw=true" alt="mheriyanto" height="20" width="20" />
+<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/github.png?raw=true" height="30" width="30" />
 </a>
 
 <a href="https://gitlab.com/mheriyanto" target="blank">
-<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/main/icons/gitlab.png?raw=true" alt="mheriyanto" height="20" width="20" />
+<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/gitlab.png?raw=true" height="30" width="30" />
 </a>
 
 <a href="https://www.youtube.com/channel/UCGPpspS9Gqmm4eMiOk-gGHw" target="blank">
-<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/main/icons/youtube.png?raw=true" alt="mheriyanto" height="20" width="20" />
+<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/youtube.png?raw=true" height="30" width="30" />
 </a>
 
 </p>
