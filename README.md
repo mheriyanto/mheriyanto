@@ -5,18 +5,27 @@ I'm an **Junior AI Researcher** who try to research and develop software using d
 
 ### &#x270d; Blog & Writing
 
-I also writing articles on a blog - you can find at [mheriyanto.github.io](mheriyanto.github.io) as well as on [Medium](https://medium.com/@mheriyanto) and [DEV.to](https://dev.to/mheriyanto).
+I am also writing articles on a blog - you can find at [mheriyanto.github.io](mheriyanto.github.io) as well as on [Medium](https://medium.com/@mheriyanto) and [DEV.to](https://dev.to/mheriyanto).
 
 
 ### 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Raspbian-informational?style=flat&logo=raspberrypi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CVS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CVS-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CVS-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=mathworks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=octave&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLFramework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLFramework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLFramework-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
 
 
 ### &#x1f4c8; GitHub Stats
