@@ -11,7 +11,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=cyan&color=23e7e7e7)
 ![](https://img.shields.io/badge/OS-Raspbian-informational?style=flat&logo=linux&logoColor=cyan&color=23e7e7e7)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=23e7e7e7)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=git&logoColor=blue&color=23e7e7e7)
 ![](https://img.shields.io/badge/CVS-Git-informational?style=flat&logo=git&logoColor=blue&color=23e7e7e7)
 ![](https://img.shields.io/badge/CVS-GitHub-informational?style=flat&logo=github&logoColor=blue&color=23e7e7e7)
 ![](https://img.shields.io/badge/CVS-GitLab-informational?style=flat&logo=gitlab&logoColor=blue&color=23e7e7e7)
@@ -22,7 +22,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 ![](https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=octave&logoColor=yellow&color=23e7e7e7)
 ![](https://img.shields.io/badge/MLFramework-PyTorch-informational?style=flat&logo=pytorch&logoColor=orange&color=23e7e7e7)
 ![](https://img.shields.io/badge/MLFramework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=orange&color=23e7e7e7)
-![](https://img.shields.io/badge/MLFramework-OpenCV-informational?style=flat&logo=opencv&logoColor=orange&color=23e7e7e7)
+![](https://img.shields.io/badge/MLFramework-OpenCV-informational?style=flat&logo=tensorflow&logoColor=orange&color=23e7e7e7)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=gold&color=23e7e7e7)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=gold&color=23e7e7e7)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=gold&color=23e7e7e7)
