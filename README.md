@@ -1,6 +1,6 @@
 **Hi You!** <img src="https://raw.githubusercontent.com/mheriyanto/mheriyanto/master/icons/wave.gif" width="30px">  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmheriyanto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm an **Junior AI Researcher** who try to research and develop software using deep learning in computer vision for the edge devices (e.g. Raspberry Pi, Nvidia Jetson Nano Dev Board, Raspberry Pi + Google Edge TPU USB Accelerator, and Google Coral Dev Board), and also a **Junior Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
+I'm an **Junior AI Researcher** who try to research and develop software using deep learning in computer vision for the edge devices (e.g. Raspberry Pi, Raspberry Pi + Google Edge TPU USB Accelerator, and Google Coral Dev Board), and also a **Junior Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 
 ### &#x270d; Blog & Writing
