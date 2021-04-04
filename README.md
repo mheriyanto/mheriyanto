@@ -5,7 +5,7 @@ I'm an **Junior AI Researcher** who try to research and develop software using d
 
 ### &#x270d; Blog & Writing
 
-I am also writing articles on a blog - you can find at [**mheriyanto.github.io**](mheriyanto.github.io) as well as on [**Medium**](https://medium.com/@mheriyanto) and [**DEV.to**](https://dev.to/mheriyanto).
+I am also writing articles on a blog - you can find at [**mheriyanto.github.io**](https://mheriyanto.wordpress.com/) as well as on [**Medium**](https://medium.com/@mheriyanto) and [**DEV.to**](https://dev.to/mheriyanto).
 
 
 ### 🔧 Technologies & Tools
@@ -73,6 +73,10 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 <img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/gitlab.png?raw=true" height="30" width="30" />
 </a>
 
+<a href="https://hub.docker.com/u/mheriyanto" target="blank">
+<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/docker.png?raw=true" height="30" width="30" />
+</a>
+
 <a href="https://discuss.pytorch.org/u/mheriyanto" target="blank">
 <img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/pytorch.png?raw=true" height="30" width="30" />
 </a>
@@ -100,5 +104,5 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 
 ### :computer: Projects
 + **Geophysics Software**: [**MH1DDC**](https://github.com/mheriyanto/MH1DDC) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/MH1DDC?style=social) ![GitHub forks](https://img.shields.io/github/forks/mheriyanto/MH1DDC?style=social) | [**MH1DMT**](https://github.com/mheriyanto/MH1DMT) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/MH1DMT?style=social) ![GitHub fork](https://img.shields.io/github/forks/mheriyanto/MH1DMT?style=social) | [**MH2DGRAV**](https://github.com/mheriyanto/MH2DGRAV) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/MH2DGRAV?style=social) ![GitHub forks](https://img.shields.io/github/forks/mheriyanto/MH2DGRAV?style=social) | [**MH2DMAG**](https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion) ![GitHub stars](https://img.shields.io/github/stars/modeling-inversion-lab/2D-Magnetic-Inversion?style=social) ![GitHub forks](https://img.shields.io/github/forks/modeling-inversion-lab/2D-Magnetic-Inversion?style=social) | [**OSGPUP**](https://github.com/Metkom/OSGPUP) ![GitHub stars](https://img.shields.io/github/stars/Metkom/OSGPUP?style=social) ![GitHub forks](https://img.shields.io/github/forks/Metkom/OSGPUP?style=social) | [**PyOSGPUP**](https://github.com/Metkom/PyOSGPUP) ![GitHub stars](https://img.shields.io/github/stars/Metkom/PyOSGPUP?style=social) ![GitHub forks](https://img.shields.io/github/forks/Metkom/PyOSGPUP?style=social)
-+ **Deep Learning Framework (Binaries)**: [**pytorch-binaries**](https://github.com/mheriyanto/pytorch-binaries) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/pytorch-binaries?style=social) ![GitHub forks](https://img.shields.io/github/forks/mheriyanto/pytorch-binaries?style=social) | [**tensorflow-binaries**](https://github.com/mheriyanto/tensorflow-binaries) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/tensorflow-binaries?style=social) ![GitHub forks](https://img.shields.io/github/forks/mheriyanto/tensorflow-binaries?style=social)
-+ **Embedded-system Apps using Deep Learning**: [**play-with-torch**](https://github.com/mheriyanto/play-with-torch) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/play-with-torch?style=social) ![GitHub forks](https://img.shields.io/github/forks/mheriyanto/play-with-torch?style=social) | [**play-with-tflite**](https://github.com/mheriyanto/play-with-tflite) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/play-with-tflite?style=social) ![GitHub forks](https://img.shields.io/github/forks/mheriyanto/play-with-tflite?style=social) | [**play-arduino-with-tflite**](https://github.com/mheriyanto/play-arduino-with-tflite) ![GitHub stars](https://img.shields.io/github/forks/mheriyanto/play-arduino-with-tflite?style=social) ![GitHub stars](https://img.shields.io/github/forks/mheriyanto/play-arduino-with-tflite?style=social)
++ **Deep Learning Framework (Binaries)**: [**pytorch-binaries**](https://github.com/mheriyanto/pytorch-binaries) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/pytorch-binaries?style=social) | [**tensorflow-binaries**](https://github.com/mheriyanto/tensorflow-binaries) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/tensorflow-binaries?style=social)
++ **Embedded-system Apps using Deep Learning**: [**play-with-torch**](https://github.com/mheriyanto/play-with-torch) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/play-with-torch?style=social) | [**play-with-tflite**](https://github.com/mheriyanto/play-with-tflite) ![GitHub stars](https://img.shields.io/github/stars/mheriyanto/play-with-tflite?style=social) | [**play-arduino-with-tflite**](https://github.com/mheriyanto/play-arduino-with-tflite) ![GitHub stars](https://img.shields.io/github/forks/mheriyanto/play-arduino-with-tflite?style=social)
