@@ -1,6 +1,6 @@
 **Hi You!** <img src="https://raw.githubusercontent.com/mheriyanto/mheriyanto/master/icons/wave.gif" width="30px">  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmheriyanto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm an **Junior AI Researcher** who try to research and develop software using deep learning in computer vision for the edge devices (e.g. Raspberry Pi, Raspberry Pi + Google Edge TPU USB Accelerator, Nvidia Jetson Nano Dev Board and Google Coral Dev Board), and also a **Junior Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
+I'm an **Junior AI Researcher** who try to research and develop software using deep learning in computer vision for the edge devices (e.g. [Raspberry Pi](https://www.raspberrypi.org/), Raspberry Pi + [Google Edge TPU USB Accelerator](https://coral.ai/products/accelerator/), [Nvidia Jetson Nano Dev Board](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) and [Google Coral Dev Board](https://coral.ai/products/dev-board/)), and also a **Junior Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 
 ### &#x270d; Blog & Writing
@@ -12,6 +12,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=DD4814&color=23e7e7e7)
 ![](https://img.shields.io/badge/OS-Raspbian-informational?style=flat&logo=linux&logoColor=c51a4a&color=23e7e7e7)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=git&logoColor=0078d7&color=23e7e7e7)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=E0FFFF&color=23e7e7e7)
 ![](https://img.shields.io/badge/CVS-Git-informational?style=flat&logo=git&logoColor=f34f29&color=23e7e7e7)
 ![](https://img.shields.io/badge/CVS-GitHub-informational?style=flat&logo=github&logoColor=FFFFFF&color=23e7e7e7)
 ![](https://img.shields.io/badge/CVS-GitLab-informational?style=flat&logo=gitlab&logoColor=FFFFFF&color=23e7e7e7)
@@ -111,7 +112,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 
 
 ### :computer: Projects
-+ **geophysics software**: [**MH1DDC**](https://github.com/mheriyanto/MH1DDC), [**MH1DMT**](https://github.com/mheriyanto/MH1DMT), [**MH2DGRAV**](https://github.com/mheriyanto/MH2DGRAV), [**MH2DMAG**](https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion), [**OSGPUP**](https://github.com/Metkom/OSGPUP), and [**PyOSGPUP**](https://github.com/Metkom/PyOSGPUP).
++ **geophysics software**: [**MH1DDC**](https://github.com/mheriyanto/MH1DDC), [**MH1DMT**](https://github.com/mheriyanto/MH1DMT), [**MH2DGRAV**](https://github.com/mheriyanto/MH2DGRAV), [**MH2DMAG**](https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion), [**OSGPUP**](https://github.com/Metkom/OSGPUP) and [**PyOSGPUP**](https://github.com/Metkom/PyOSGPUP).
++ **embedded-system apps using deep learning**: [**play-with-torch**](https://github.com/mheriyanto/play-with-torch), [**play-with-tflite**](https://github.com/mheriyanto/play-with-tflite) and [**play-arduino-with-tflite**](https://github.com/mheriyanto/play-arduino-with-tflite).
 + **deep learning framework (binaries)**: [**pytorch-binaries**](https://github.com/mheriyanto/pytorch-binaries), [**tensorflow-binaries**](https://github.com/mheriyanto/tensorflow-binaries) and [**opencv-mobile-binaries**](https://github.com/mheriyanto/opencv-mobile).
-+ **embedded-system apps using deep learning**: [**play-with-torch**](https://github.com/mheriyanto/play-with-torch), [**play-with-tflite**](https://github.com/mheriyanto/play-with-tflite), and [**play-arduino-with-tflite**](https://github.com/mheriyanto/play-arduino-with-tflite).
 + **interesting-repository contributor**: [deep-learning-in-production](https://github.com/ahkarami/Deep-Learning-in-Production), [awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js), [awesome-tensorflow-lite](https://github.com/margaretmz/awesome-tensorflow-lite), [opencv-mobile](https://github.com/nihui/opencv-mobile), etc.
