@@ -77,12 +77,16 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 <img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/docker.png?raw=true" height="30" width="30" />
 </a>
 
-<a href="https://discuss.pytorch.org/u/mheriyanto" target="blank">
+<a href="https://discuss.pytorch.org/u/mheriyanto/summary" target="blank">
 <img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/pytorch.png?raw=true" height="30" width="30" />
 </a>
 
 <a href="https://groups.google.com/u/1/a/tensorflow.org/g/discuss" target="blank">
 <img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/tensorflow.png?raw=true" height="30" width="30" />
+</a>
+
+<a href="https://forums.developer.nvidia.com/u/mheriyanto/summary" target="blank">
+<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/nvidia.png?raw=true" height="30" width="30" />
 </a>
 
 <a href="https://pypi.org/user/mheriyanto/" target="blank">
