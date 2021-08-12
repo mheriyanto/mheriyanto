@@ -18,6 +18,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 ![](https://img.shields.io/badge/CVS-GitLab-informational?style=flat&logo=gitlab&logoColor=FFFFFF&color=23e7e7e7)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=FFD43B&color=23e7e7e7)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=6495ED&color=23e7e7e7)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=c&logoColor=6495ED&color=23e7e7e7)
 ![](https://img.shields.io/badge/Code-CMake-informational?style=flat&logo=cmake&logoColor=000080&color=23e7e7e7)
 ![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=mathworks&logoColor=FF0000&color=23e7e7e7)
 ![](https://img.shields.io/badge/Code-Octave-informational?style=flat&logo=octave&logoColor=1E90FF&color=23e7e7e7)
@@ -25,6 +26,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 ![](https://img.shields.io/badge/MLFramework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=FF6F00&color=23e7e7e7)
 ![](https://img.shields.io/badge/MLFramework-OpenCV-informational?style=flat&logo=tensorflow&logoColor=orange&color=23e7e7e7)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=blue&color=23e7e7e7)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=sqlite&logoColor=blue&color=23e7e7e7)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=0db7ed&color=23e7e7e7)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=6762a6&color=23e7e7e7)
 
