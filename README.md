@@ -113,12 +113,93 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 [2.1]: https://github.com/mheriyanto/mheriyanto/blob/master/icons/linkedin-black.png
 
 
-### :computer: Projects
+### :computer: Open Source Projects
 + :mag_right::wrench: **geophysics software**: [**MH1DDC**](https://github.com/mheriyanto/MH1DDC), [**MH1DMT**](https://github.com/mheriyanto/MH1DMT), [**MH2DGRAV**](https://github.com/mheriyanto/MH2DGRAV), [**MH2DMAG**](https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion), [**MH3DMAG**](https://mheriyanto.wordpress.com/mh3dmag/), [**GMI-MH**](https://gmi-mh.herokuapp.com), [**OSGPUP**](https://github.com/Metkom/OSGPUP) and [**PyOSGPUP**](https://github.com/Metkom/PyOSGPUP).
-+ :mag_right::wrench: **embedded-system apps using deep learning**: [**play-with-torch**](https://github.com/mheriyanto/play-with-torch), [**play-with-torch-dev**](https://gitlab.com/mheriyanto/play-with-torch-dev), [**play-with-tflite**](https://github.com/mheriyanto/play-with-tflite), [**play-with-tflite-dev**](https://gitlab.com/mheriyanto/play-with-tflite-dev), [**play-arduino-with-tflite**](https://github.com/mheriyanto/play-arduino-with-tflite), [**play-with-ncnn**](https://github.com/mheriyanto/play-with-ncnn), [**play-with-ncnn-dev**](https://gitlab.com/mheriyanto/play-with-ncnn-dev) and [**nn-cuda-example**](https://github.com/mheriyanto/nn-cuda-example).
 + :mag_right::wrench: **deep learning framework (binaries)**: [**pytorch-binaries**](https://github.com/mheriyanto/pytorch-binaries), [**tensorflow-binaries**](https://github.com/mheriyanto/tensorflow-binaries), [**ncnn-binaries**](https://github.com/Tencent/ncnn/releases) and [**opencv-mobile-binaries**](https://github.com/mheriyanto/opencv-mobile).
 + :pencil::bar_chart: **useful ai repositories**: [**awesome-object-detection**](https://github.com/hoya012/deep_learning_object_detection), [awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [**deep-learning-in-production**](https://github.com/ahkarami/Deep-Learning-in-Production), [awesome-embedded-deep-learning](https://github.com/csarron/awesome-emdl), [**awesome-tensorflow-lite**](https://github.com/margaretmz/awesome-tensorflow-lite), [awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js), [**awesome-data-labeling-tools**](https://github.com/heartexlabs/awesome-data-labeling), [awesome-lidar-3d-detectors](https://github.com/Hub-Tian/Awesome-3D-Detectors), etc.
 + :pencil::bar_chart: **useful tool repositories**: [**awesome-mlops**](https://github.com/kelvins/awesome-mlops), [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern), [**awesome-ml-python**](https://github.com/ml-tooling/best-of-ml-python), [awesome-python-tools](https://github.com/ml-tooling/best-of-python), [**awesome-ml-cpp**](https://github.com/bennylp/awesome-cpp-ml), [awesome-cpp](https://github.com/fffaraz/awesome-cpp), [**awesome-ml-c**](https://github.com/oz123/awesome-c#ai), [awesome-c](https://github.com/oz123/awesome-c), etc.
 + :clipboard::hamburger: **model zoo**: [**pytorch-image-models**](https://github.com/rwightman/pytorch-image-models), [tensorflow-lite-image-models](https://www.tensorflow.org/lite/examples), [**tensorflow-image-models**](https://github.com/tensorflow/models), [tensorflow-tensorrt-image-models](https://github.com/NVIDIA-AI-IOT/tf_trt_models), [**onnx-image-models**](https://github.com/onnx/models), [nvidia-models](https://github.com/NVIDIA/DeepLearningExamples), [**ncnn-image-models**](https://github.com/nilseuropa/ncnn_models), [neuralet-models](https://neuralet.com/models/), etc.
 + :pencil::bar_chart: **useful geophysical repositories**: [**awesome-open-geoscience**](https://github.com/softwareunderground/awesome-open-geoscience), [awesome-earth-artificial-intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence), [**awesome-metaheuristic-algorithms**](https://github.com/modeling-inversion-lab/awesome-metaheuristic-algorithms), etc.
 + :newspaper::fire: **newsletter**: [**awesome-monocular-3d-detectors**](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection), [tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects), [**efficient-dnn-updates**](https://github.com/MingSun-Tse/EfficientDNNs), [awesome-web-python](https://github.com/ml-tooling/best-of-web-python), [**python-dev-tools**](https://github.com/ml-tooling/best-of-python-dev), etc.
+
+<div align="center">
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>📬 Versions</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/mheriyanto/play-with-torch"><b>play-with-torch (py)</b></a></td>
+      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-torch?color=orange&label=version"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-torch?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-torch?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-with-torch?style=flate&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-torch?style=flat&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://gitlab.com/mheriyanto/play-with-torch-dev"><b>play-with-torch-dev (c++)</b></a></td>
+      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-torch-dev?color=orange&label=version"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-torch-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-torch-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-with-torch-dev?style=flate&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-torch-dev?style=flat&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mheriyanto/play-with-tflite"><b>play-with-tflite (py)</b></a></td>
+      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-tflite?color=orange&label=version"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-tflite?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-tflite?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-with-tflite?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-tflite?style=flat&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://gitlab.com/mheriyanto/play-with-tflite-dev"><b>play-with-tflite-dev (c++)</b></a></td>
+      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-tflite-dev?color=orange&label=version"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-tflite-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-tflite-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-with-tflite-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-tflite-dev?style=flat&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mheriyanto/nn-cuda-example"><b>nn-cuda-example</b></a></td>
+      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/nn-cuda-example?color=orange&label=version"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/nn-cuda-example?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/nn-cuda-example?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/nn-cuda-example?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/nn-cuda-example?style=flat&labelColor=343b41"/></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/mheriyanto/play-with-ncnn"><b>play-with-ncnn (py)</b></a></td>
+      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-ncnn?color=orange&label=version"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-ncnn?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-ncnn?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-with-ncnn?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-ncnn?style=flat&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://gitlab.com/mheriyanto/play-with-ncnn-dev"><b>play-with-ncnn-dev (c++)</b></a></td>
+      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-ncnn-dev?color=orange&label=version"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-ncnn-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-ncnn-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-with-ncnn-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-ncnn-dev?style=flat&labelColor=343b41"/></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/mheriyanto/play-arduino-with-tflite"><b>play-arduino-with-tflite</b></a></td>
+      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-arduino-with-tflite?color=orange&label=version"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-arduino-with-tflite?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-arduino-with-tflite?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-arduino-with-tflite?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-arduino-with-tflite?style=flat&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+    
+</div>
