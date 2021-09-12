@@ -145,11 +145,11 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
     </tr>
     <tr>
       <td><a href="https://gitlab.com/mheriyanto/play-with-torch-dev"><b>play-with-torch-dev (c++)</b></a></td>
-      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-torch-dev?color=orange&label=version"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-torch-dev?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-torch-dev?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-with-torch-dev?style=flate&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-torch-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Versions" src="https://badgen.net/gitlab/release/mheriyanto/play-with-torch-dev"/></td>
+      <td><img alt="Stars" src="https://badgen.net/gitlab/stars/mheriyanto/play-with-torch-dev"/></td>
+      <td><img alt="Forks" src="https://badgen.net/gitlab/forks/mheriyanto/play-with-torch-dev"/></td>
+      <td><img alt="Issues" src="https://badgen.net/gitlab/open-issues/mheriyanto/play-with-torch-dev"/></td>
+      <td><img alt="Pull Requests" src="https://badgen.net/gitlab/open-mrs/mheriyanto/play-with-torch-dev"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/mheriyanto/play-with-tflite"><b>play-with-tflite (py)</b></a></td>
@@ -161,11 +161,11 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
     </tr>
     <tr>
       <td><a href="https://gitlab.com/mheriyanto/play-with-tflite-dev"><b>play-with-tflite-dev (c++)</b></a></td>
-      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-tflite-dev?color=orange&label=version"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-tflite-dev?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-tflite-dev?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-with-tflite-dev?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-tflite-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Versions" src="https://badgen.net/gitlab/release/mheriyanto/play-with-tflite-dev"/></td>
+      <td><img alt="Stars" src="https://badgen.net/gitlab/stars/mheriyanto/play-with-tflite-dev"/></td>
+      <td><img alt="Forks" src="https://badgen.net/gitlab/forks/mheriyanto/play-with-tflite-dev"/></td>
+      <td><img alt="Issues" src="https://badgen.net/gitlab/open-issues/mheriyanto/play-with-tflite-dev"/></td>
+      <td><img alt="Pull Requests" src="https://badgen.net/gitlab/open-mrs/mheriyanto/play-with-tflite-dev"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/mheriyanto/nn-cuda-example"><b>nn-cuda-example</b></a></td>
@@ -185,11 +185,11 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
     </tr>
     <tr>
       <td><a href="https://gitlab.com/mheriyanto/play-with-ncnn-dev"><b>play-with-ncnn-dev (c++)</b></a></td>
-      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-ncnn-dev?color=orange&label=version"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-ncnn-dev?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-ncnn-dev?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-with-ncnn-dev?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-ncnn-dev?style=flat&labelColor=343b41"/></td>
+      <td><img alt="Versions" src="https://badgen.net/gitlab/release/mheriyanto/play-with-ncnn-dev"/></td>
+      <td><img alt="Stars" src="https://badgen.net/gitlab/stars/mheriyanto/play-with-ncnn-dev"/></td>
+      <td><img alt="Forks" src="https://badgen.net/gitlab/forks/mheriyanto/play-with-ncnn-dev"/></td>
+      <td><img alt="Issues" src="https://badgen.net/gitlab/open-issues/mheriyanto/play-with-ncnn-dev"/></td>
+      <td><img alt="Pull Requests" src="https://badgen.net/gitlab/open-mrs/mheriyanto/play-with-ncnn-dev"/></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/mheriyanto/play-arduino-with-tflite"><b>play-arduino-with-tflite</b></a></td>
