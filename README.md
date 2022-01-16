@@ -191,14 +191,6 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
       <td><img alt="Issues" src="https://badgen.net/gitlab/open-issues/mheriyanto/play-with-ncnn-dev"/></td>
       <td><img alt="Pull Requests" src="https://badgen.net/gitlab/open-mrs/mheriyanto/play-with-ncnn-dev"/></td>
     </tr>
-	<tr>
-      <td><a href="https://github.com/mheriyanto/play-arduino-with-tflite"><b>play-arduino-with-tflite</b></a></td>
-      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-arduino-with-tflite?color=orange&label=version"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-arduino-with-tflite?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-arduino-with-tflite?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/play-arduino-with-tflite?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-arduino-with-tflite?style=flat&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
     
