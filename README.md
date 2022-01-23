@@ -136,7 +136,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mheriyanto/play-with-torch"><b>play-with-torch (py)</b></a></td>
+      <td><a href="https://github.com/mheriyanto/play-with-torch"><b>People Analytics (torch, py)</b></a></td>
       <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-torch?color=orange&label=version"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-torch?style=flat&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-torch?style=flat&labelColor=343b41"/></td>
@@ -144,7 +144,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-torch?style=flat&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://gitlab.com/mheriyanto/play-with-torch-dev"><b>play-with-torch-dev (c++)</b></a></td>
+      <td><a href="https://gitlab.com/mheriyanto/play-with-torch-dev"><b>People Analytics (torch, c++)</b></a></td>
       <td><img alt="Versions" src="https://badgen.net/gitlab/release/mheriyanto/play-with-torch-dev"/></td>
       <td><img alt="Stars" src="https://badgen.net/gitlab/stars/mheriyanto/play-with-torch-dev"/></td>
       <td><img alt="Forks" src="https://badgen.net/gitlab/forks/mheriyanto/play-with-torch-dev"/></td>
@@ -152,7 +152,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
       <td><img alt="Pull Requests" src="https://badgen.net/gitlab/open-mrs/mheriyanto/play-with-torch-dev"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mheriyanto/play-with-tflite"><b>play-with-tflite (py)</b></a></td>
+      <td><a href="https://github.com/mheriyanto/play-with-tflite"><b>Vehicle Analytics (tflite, py)</b></a></td>
       <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-tflite?color=orange&label=version"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-tflite?style=flat&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-tflite?style=flat&labelColor=343b41"/></td>
@@ -160,7 +160,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-tflite?style=flat&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://gitlab.com/mheriyanto/play-with-tflite-dev"><b>play-with-tflite-dev (c++)</b></a></td>
+      <td><a href="https://gitlab.com/mheriyanto/play-with-tflite-dev"><b>Vehicle Analytics (tflite, c++)</b></a></td>
       <td><img alt="Versions" src="https://badgen.net/gitlab/release/mheriyanto/play-with-tflite-dev"/></td>
       <td><img alt="Stars" src="https://badgen.net/gitlab/stars/mheriyanto/play-with-tflite-dev"/></td>
       <td><img alt="Forks" src="https://badgen.net/gitlab/forks/mheriyanto/play-with-tflite-dev"/></td>
@@ -168,7 +168,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
       <td><img alt="Pull Requests" src="https://badgen.net/gitlab/open-mrs/mheriyanto/play-with-tflite-dev"/></td>
     </tr>
 	<tr>
-      <td><a href="https://github.com/mheriyanto/play-with-ncnn"><b>play-with-ncnn (py)</b></a></td>
+      <td><a href="https://github.com/mheriyanto/play-with-ncnn"><b>Face Analytics (ncnn, py)</b></a></td>
       <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-ncnn?color=orange&label=version"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/play-with-ncnn?style=flat&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/play-with-ncnn?style=flat&labelColor=343b41"/></td>
@@ -176,7 +176,7 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/play-with-ncnn?style=flat&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://gitlab.com/mheriyanto/play-with-ncnn-dev"><b>play-with-ncnn-dev (c++)</b></a></td>
+      <td><a href="https://gitlab.com/mheriyanto/play-with-ncnn-dev"><b>Face Analytics (ncnn, c++)</b></a></td>
       <td><img alt="Versions" src="https://badgen.net/gitlab/release/mheriyanto/play-with-ncnn-dev"/></td>
       <td><img alt="Stars" src="https://badgen.net/gitlab/stars/mheriyanto/play-with-ncnn-dev"/></td>
       <td><img alt="Forks" src="https://badgen.net/gitlab/forks/mheriyanto/play-with-ncnn-dev"/></td>
