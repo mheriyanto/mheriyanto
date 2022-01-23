@@ -167,14 +167,6 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
       <td><img alt="Issues" src="https://badgen.net/gitlab/open-issues/mheriyanto/play-with-tflite-dev"/></td>
       <td><img alt="Pull Requests" src="https://badgen.net/gitlab/open-mrs/mheriyanto/play-with-tflite-dev"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/mheriyanto/nn-cuda-example"><b>nn-cuda-example</b></a></td>
-      <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/nn-cuda-example?color=orange&label=version"/></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mheriyanto/nn-cuda-example?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mheriyanto/nn-cuda-example?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mheriyanto/nn-cuda-example?style=flat&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mheriyanto/nn-cuda-example?style=flat&labelColor=343b41"/></td>
-    </tr>
 	<tr>
       <td><a href="https://github.com/mheriyanto/play-with-ncnn"><b>play-with-ncnn (py)</b></a></td>
       <td><img alt="Versions" src="https://img.shields.io/github/v/tag/mheriyanto/play-with-ncnn?color=orange&label=version"/></td>
