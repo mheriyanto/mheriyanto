@@ -185,15 +185,23 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
     </tr>
   </tbody>
 </table>
-    
 </div>
 
 ### :seedling: Support
 
-<p align="center">
-
-<a href="https://saweria.co/mheriyanto" target="blank">
-<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/saweria.png?raw=true" height="100" width="100" />
-</a>
-
-</p>
+<div align="center">
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>:heavy_dollar_sign: PayPal</b></td>
+      <td><b>indonesia: Saweria</b></td>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+      <td><img alt="PayPal" href="https://www.paypal.me/emheriyanto" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/paypal.png?raw=true" height="100" width="100" /></td>
+      <td><img alt="Saweria" href="https://saweria.co/mheriyanto" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/saweria.png?raw=true" height="100" width="100"/></td>
+  </tr>
+</tbody>
+</table>
+</div>
