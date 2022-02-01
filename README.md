@@ -194,13 +194,15 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
   <thead align="center">
     <tr border: none;>
       <td><b>:heavy_dollar_sign: PayPal</b></td>
-      <td><b>indonesia: Saweria</b></td>
+      <td><b>:indonesia: Saweria</b></td>
+      <td><b><img href="bitcoin:bc1qyp03apvwy74zy68p5ze84lzqz6m08c3g7apg2k" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/bitcoin-icon.png?raw=true"/> Bitcoin</b></td>
     </tr>
   </thead>
 <tbody>
   <tr>
       <td><img alt="PayPal" href="https://www.paypal.me/emheriyanto" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/paypal.png?raw=true" height="100" width="100" /></td>
       <td><img alt="Saweria" href="https://saweria.co/mheriyanto" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/saweria.png?raw=true" height="100" width="100"/></td>
+       <td><img alt="Bitcoin" href="https://saweria.co/mheriyanto" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/bitcoin.png?raw=true" height="100" width="100"/></td>
   </tr>
 </tbody>
 </table>
