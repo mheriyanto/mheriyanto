@@ -1,11 +1,11 @@
 **Hi You!** <img src="https://raw.githubusercontent.com/mheriyanto/mheriyanto/master/icons/wave.gif" width="30px">  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmheriyanto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm a **Junior AI Researcher** who try to research and develop software using deep learning in computer vision for the edge devices (e.g. [Raspberry Pi](https://www.raspberrypi.org/), Raspberry Pi + [Google Edge TPU USB Accelerator](https://coral.ai/products/accelerator/), [Google Coral Dev Board](https://coral.ai/products/dev-board/) and [Nvidia Jetson Nano Dev Board](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)), and also a **Junior Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
+I'm an **AI Researcher** who research and develop software using deep learning in computer vision for the edge devices (e.g. [Raspberry Pi](https://www.raspberrypi.org/), Raspberry Pi + [Google Edge TPU USB Accelerator](https://coral.ai/products/accelerator/), [Google Coral Dev Board](https://coral.ai/products/dev-board/) and [Nvidia Jetson Nano Dev Board](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)), and also a **Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 
 ### &#x270d; Blog & Writing
 
-I am also writing articles on a blog - you can find at [**mheriyanto.github.io**](https://mheriyanto.wordpress.com/) as well as on [**Medium**](https://medium.com/@mheriyanto) and [**DEV.to**](https://dev.to/mheriyanto).
+I am also writing articles on a blog - you can find at [**mheriyanto.github.io**][3.1] as well as on [**Medium**][3.2] and [**DEV.to**][3.3].
 
 
 ### 🔧 Technologies & Tools
@@ -106,16 +106,9 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 
 </p>
 
-[1]: https://twitter.com/emheriyanto
-[1.1]: http://i.imgur.com/wWzX9uB.png
-
-[2]: https://www.linkedin.com/in/mheriyanto/
-[2.1]: https://github.com/mheriyanto/mheriyanto/blob/master/icons/linkedin-black.png
-
-
 ### :computer: Open Source Projects
-+ :mag_right::wrench: **geophysics software**: [**MH1DDC**](https://github.com/mheriyanto/MH1DDC), [**MH1DMT**](https://github.com/mheriyanto/MH1DMT), [**MH2DGRAV**](https://github.com/mheriyanto/MH2DGRAV), [**MH2DMAG**](https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion), [**MH3DMAG**](https://mheriyanto.wordpress.com/mh3dmag/), [**GMI-MH**](https://gmi-mh.herokuapp.com), [**OSGPUP**](https://github.com/Metkom/OSGPUP) and [**PyOSGPUP**](https://github.com/Metkom/PyOSGPUP).
-+ :mag_right::wrench: **deep learning framework (binaries)**: [**pytorch-binaries**](https://github.com/mheriyanto/pytorch-binaries), [**tensorflow-binaries**](https://github.com/mheriyanto/tensorflow-binaries), [**ncnn-binaries**](https://github.com/Tencent/ncnn/releases) and [**opencv-mobile-binaries**](https://github.com/mheriyanto/opencv-mobile).
++ :mag_right::wrench: **geophysics software**: [**MH1DDC**][4.1], [**MH1DMT**][4.2], [**MH2DGRAV**][4.3], [**MH2DMAG**][4.4], [**MH3DMAG**][4.5], [**GMI-MH**][4.6], [**OSGPUP**][4.7] and [**PyOSGPUP**][4.8].
++ :mag_right::wrench: **deep learning framework (binaries)**: [**pytorch-binaries**][5.1], [**tensorflow-binaries**][5.2], [**ncnn-binaries**][5.3] and [**opencv-mobile-binaries**][5.4].
 + :pencil::bar_chart: **useful ai repositories**: [**awesome-object-detection**](https://github.com/hoya012/deep_learning_object_detection), [awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [**deep-learning-in-production**](https://github.com/ahkarami/Deep-Learning-in-Production), [awesome-embedded-deep-learning](https://github.com/csarron/awesome-emdl), [**awesome-tensorflow-lite**](https://github.com/margaretmz/awesome-tensorflow-lite), [awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js), [**awesome-data-labeling-tools**](https://github.com/heartexlabs/awesome-data-labeling), [awesome-lidar-3d-detectors](https://github.com/Hub-Tian/Awesome-3D-Detectors), etc.
 + :pencil::bar_chart: **useful tool repositories**: [**awesome-mlops**](https://github.com/kelvins/awesome-mlops), [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern), [**awesome-ml-python**](https://github.com/ml-tooling/best-of-ml-python), [awesome-python-tools](https://github.com/ml-tooling/best-of-python), [**awesome-ml-cpp**](https://github.com/bennylp/awesome-cpp-ml), [awesome-cpp](https://github.com/fffaraz/awesome-cpp), [**awesome-ml-c**](https://github.com/oz123/awesome-c#ai), [awesome-c](https://github.com/oz123/awesome-c), etc.
 + :clipboard::hamburger: **model zoo**: [**pytorch-image-models**](https://github.com/rwightman/pytorch-image-models), [tensorflow-lite-image-models](https://www.tensorflow.org/lite/examples), [**tensorflow-image-models**](https://github.com/tensorflow/models), [tensorflow-tensorrt-image-models](https://github.com/NVIDIA-AI-IOT/tf_trt_models), [**onnx-image-models**](https://github.com/onnx/models), [nvidia-models](https://github.com/NVIDIA/DeepLearningExamples), [**ncnn-image-models**](https://github.com/nilseuropa/ncnn_models), [neuralet-models](https://neuralet.com/models/), etc.
@@ -207,3 +200,27 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 </tbody>
 </table>
 </div>
+
+[1]: https://twitter.com/emheriyanto
+[1.1]: http://i.imgur.com/wWzX9uB.png
+
+[2]: https://www.linkedin.com/in/mheriyanto/
+[2.1]: https://github.com/mheriyanto/mheriyanto/blob/master/icons/linkedin-black.png
+
+[3.1]: https://mheriyanto.wordpress.com/
+[3.2]: https://medium.com/@mheriyanto
+[3.3]: https://dev.to/mheriyanto
+
+[4.1]: https://github.com/mheriyanto/MH1DDC
+[4.2]: https://github.com/mheriyanto/MH1DMT
+[4.3]: https://github.com/mheriyanto/MH2DGRAV
+[4.4]: https://github.com/modeling-inversion-lab/2D-Magnetic-Inversion
+[4.5]: https://mheriyanto.wordpress.com/mh3dmag/
+[4.6]: https://gmi-mh.herokuapp.com
+[4.7]: https://github.com/Metkom/OSGPUP
+[4.8]: https://github.com/Metkom/PyOSGPUP
+
+[5.1]: https://github.com/mheriyanto/pytorch-binaries
+[5.2]: https://github.com/mheriyanto/tensorflow-binaries
+[5.3]: https://github.com/Tencent/ncnn/releases
+[5.4]: https://github.com/mheriyanto/opencv-mobile
