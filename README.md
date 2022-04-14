@@ -40,11 +40,13 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 </a>
 
 <a align="center" href="https://mheriyanto.github.io">
+<details>
+<summary> :notes: <strong>Spotify recently played</strong> :notes: </summary>
     <p align="center">
      <img src="https://spotify-recently-played-readme.vercel.app/api?user=mheriyanto&count=3&width=300" alt="spotify-recently-played-readme" width="230"/>&nbsp;<img src="https://spotify-github-profile.vercel.app/api/view?uid=mheriyanto&cover_image=true&theme=default" alt="spotify-github-profile" height="165">
    </p>
+</details>
 </a>
-
 
 <p align="center">
 
@@ -107,6 +109,10 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 </p>
 
 ### :computer: Open Source Projects
+
+<details>
+<summary>:mag_right::fire: <strong>open-source repo watchlist</strong> :bar_chart:</summary>
+
 + :mag_right::wrench: **geophysics software**: [**MH1DDC**][4.1], [**MH1DMT**][4.2], [**MH2DGRAV**][4.3], [**MH2DMAG**][4.4], [**MH3DMAG**][4.5], [**GMI-MH**][4.6], [**OSGPUP**][4.7] and [**PyOSGPUP**][4.8].
 + :mag_right::wrench: **deep learning framework (binaries)**: [**pytorch-binaries**][5.1], [**tensorflow-binaries**][5.2], [**ncnn-binaries**][5.3] and [**opencv-mobile-binaries**][5.4].
 + :pencil::bar_chart: **useful ai repositories**: [**awesome-object-detection**](https://github.com/hoya012/deep_learning_object_detection), [awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [**deep-learning-in-production**](https://github.com/ahkarami/Deep-Learning-in-Production), [awesome-embedded-deep-learning](https://github.com/csarron/awesome-emdl), [**awesome-tensorflow-lite**](https://github.com/margaretmz/awesome-tensorflow-lite), [awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js), [**awesome-data-labeling-tools**](https://github.com/heartexlabs/awesome-data-labeling), [awesome-lidar-3d-detectors](https://github.com/Hub-Tian/Awesome-3D-Detectors), etc.
@@ -114,6 +120,8 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 + :clipboard::hamburger: **model zoo**: [**pytorch-image-models**](https://github.com/rwightman/pytorch-image-models), [tensorflow-lite-image-models](https://www.tensorflow.org/lite/examples), [**tensorflow-image-models**](https://github.com/tensorflow/models), [tensorflow-tensorrt-image-models](https://github.com/NVIDIA-AI-IOT/tf_trt_models), [**onnx-image-models**](https://github.com/onnx/models), [nvidia-models](https://github.com/NVIDIA/DeepLearningExamples), [**ncnn-image-models**](https://github.com/nilseuropa/ncnn_models), [neuralet-models](https://neuralet.com/models/), etc.
 + :pencil::bar_chart: **useful geophysical repositories**: [**awesome-open-geoscience**](https://github.com/softwareunderground/awesome-open-geoscience), [awesome-earth-artificial-intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence), [**awesome-metaheuristic-algorithms**](https://github.com/modeling-inversion-lab/awesome-metaheuristic-algorithms), etc.
 + :newspaper::fire: **newsletter**: [awesome-production-ml](https://github.com/EthicalML/awesome-production-machine-learning), [**awesome-monocular-3d-detectors**](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection), [tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects), [**efficient-dnn-updates**](https://github.com/MingSun-Tse/EfficientDNNs), [awesome-web-python](https://github.com/ml-tooling/best-of-web-python), [**python-dev-tools**](https://github.com/ml-tooling/best-of-python-dev), etc.
+	
+</details>
 
 <div align="center">
 <table>
