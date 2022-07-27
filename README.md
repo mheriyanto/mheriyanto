@@ -39,6 +39,10 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
     </p>
 </a>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mheriyanto&column=8&margin-w=0&theme=matrix&no-bg=true&no-frame=true"> 
+</p>
+
 <a align="center" href="https://mheriyanto.github.io">
 <details>
 <summary> :notes: <strong>Spotify recently played</strong> :notes: </summary>
