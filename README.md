@@ -1,6 +1,6 @@
-**Hi You!** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmheriyanto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+**Hi You!** <img src="https://raw.githubusercontent.com/mheriyanto/mheriyanto/master/icons/wave.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmheriyanto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm an **AI Researcher** who research and develop software using deep learning in computer vision for the edge devices (e.g. [Raspberry Pi](https://www.raspberrypi.org/), Raspberry Pi + [Google Edge TPU USB Accelerator](https://coral.ai/products/accelerator/), [Google Coral Dev Board](https://coral.ai/products/dev-board/) and [Nvidia Jetson Nano Dev Board](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)), and also a **Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
+I'm an **AI Researcher** who research and develop software using deep learning in computer vision for tiny, edge and data center devices, and also a **Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 
 ### &#x270d; Blog & Writing
@@ -38,6 +38,10 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
     <img src="https://github-readme-stats.vercel.app/api?username=mheriyanto&count_private=true&show_icons=true&theme=gotham" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mheriyanto&layout=compact&theme=gotham" alt="languages" height="165">
     </p>
 </a>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mheriyanto&column=8&margin-w=0&theme=matrix&no-bg=true&no-frame=true"> 
+</p>
 
 <a align="center" href="https://mheriyanto.github.io">
 <details>
@@ -93,8 +97,6 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 <details>
 <summary>:mag_right::fire: <strong>open-source repo watchlist</strong> :bar_chart:</summary>
 
-+ :mag_right::wrench: **geophysics software**: [**MH1DDC**][4.1], [**MH1DMT**][4.2], [**MH2DGRAV**][4.3], [**MH2DMAG**][4.4], [**MH3DMAG**][4.5], [**GMI-MH**][4.6], [**OSGPUP**][4.7] and [**PyOSGPUP**][4.8].
-+ :mag_right::wrench: **deep learning framework (binaries)**: [**pytorch-binaries**][5.1], [**tensorflow-binaries**][5.2], [**ncnn-binaries**][5.3] and [**opencv-mobile-binaries**][5.4].
 + :pencil::bar_chart: **useful ai repositories**: [**awesome-object-detection**](https://github.com/hoya012/deep_learning_object_detection), [awesome-multiple-object-tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [**deep-learning-in-production**](https://github.com/ahkarami/Deep-Learning-in-Production), [awesome-embedded-deep-learning](https://github.com/csarron/awesome-emdl), [**awesome-tensorflow-lite**](https://github.com/margaretmz/awesome-tensorflow-lite), [awesome-tensorflow-js](https://github.com/aaronhma/awesome-tensorflow-js), [**awesome-data-labeling-tools**](https://github.com/heartexlabs/awesome-data-labeling), [awesome-lidar-3d-detectors](https://github.com/Hub-Tian/Awesome-3D-Detectors), etc.
 + :pencil::bar_chart: **useful tool repositories**: [**awesome-mlops**](https://github.com/kelvins/awesome-mlops), [ml-system-design-pattern](https://github.com/mercari/ml-system-design-pattern), [**awesome-ml-python**](https://github.com/ml-tooling/best-of-ml-python), [awesome-python-tools](https://github.com/ml-tooling/best-of-python), [**awesome-ml-cpp**](https://github.com/bennylp/awesome-cpp-ml), [awesome-cpp](https://github.com/fffaraz/awesome-cpp), [**awesome-ml-c**](https://github.com/oz123/awesome-c#ai), [awesome-c](https://github.com/oz123/awesome-c), etc.
 + :clipboard::hamburger: **model zoo**: [**pytorch-image-models**](https://github.com/rwightman/pytorch-image-models), [tensorflow-lite-image-models](https://www.tensorflow.org/lite/examples), [**tensorflow-image-models**](https://github.com/tensorflow/models), [tensorflow-tensorrt-image-models](https://github.com/NVIDIA-AI-IOT/tf_trt_models), [**onnx-image-models**](https://github.com/onnx/models), [nvidia-models](https://github.com/NVIDIA/DeepLearningExamples), [**ncnn-image-models**](https://github.com/nilseuropa/ncnn_models), [neuralet-models](https://neuralet.com/models/), etc.
@@ -102,6 +104,9 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 + :newspaper::fire: **newsletter**: [awesome-production-ml](https://github.com/EthicalML/awesome-production-machine-learning), [**awesome-monocular-3d-detectors**](https://github.com/BigTeacher-777/Awesome-Monocular-3D-detection), [tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects), [**efficient-dnn-updates**](https://github.com/MingSun-Tse/EfficientDNNs), [awesome-web-python](https://github.com/ml-tooling/best-of-web-python), [**python-dev-tools**](https://github.com/ml-tooling/best-of-python-dev), etc.
 	
 </details>
+
++ :wrench: **geophysics software**: [**MH1DDC**][4.1], [**MH1DMT**][4.2], [**MH2DGRAV**][4.3], [**MH2DMAG**][4.4], [**MH3DMAG**][4.5], [**GMI-MH**][4.6], [**OSGPUP**][4.7] and [**PyOSGPUP**][4.8].
++ :wrench: **deep learning framework (binaries)**: [**pytorch-binaries**][5.1], [**tensorflow-binaries**][5.2], [**ncnn-binaries**][5.3] and [**opencv-mobile-binaries**][5.4].
 
 <div align="center">
 <table>
