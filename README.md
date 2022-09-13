@@ -1,6 +1,6 @@
 **Hi You!** <img src="https://raw.githubusercontent.com/mheriyanto/mheriyanto/master/icons/wave.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmheriyanto%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm an **AI Researcher** who research and develop software using deep learning in computer vision for tiny, edge and data center devices, and also a **Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
+I'm an **AI Engineer (Computer Vision)** who research and develop software using deep learning in computer vision for tiny, edge and data center devices, and also a **Geophysicist** who interest to model the geothermal and mineral systems. You can find me on [![Twitter][1.1]][1],  or on [![LinkedIn][2.1]][2].
 
 
 ### &#x270d; Blog & Writing
@@ -53,10 +53,6 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 </a>
 
 <p align="center">
-
-<a href="https://dev.to/mheriyanto" target="blank">
-<img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/dev.png?raw=true" height="30" width="30" />
-</a>
 
 <a href="https://gitlab.com/mheriyanto" target="blank">
 <img align="center" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/gitlab.png?raw=true" height="30" width="30" />
