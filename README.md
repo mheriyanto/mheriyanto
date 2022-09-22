@@ -5,7 +5,7 @@ I'm an **AI Engineer (Computer Vision)** who research and develop software using
 
 ### &#x270d; Blog & Writing
 
-I am also writing articles on a blog - you can find at [**mheriyanto.github.io**][3.1] as well as on [**Medium**][3.2] and [**DEV.to**][3.3].
+I am also writing articles on [**Medium**][3.1] and [**DEV.to**][3.2].
 
 
 ### 🔧 Technologies & Tools
@@ -190,9 +190,8 @@ I am also writing articles on a blog - you can find at [**mheriyanto.github.io**
 </table>
 </div>
 
-[3.1]: https://mheriyanto.wordpress.com/
-[3.2]: https://medium.com/@mheriyanto
-[3.3]: https://dev.to/mheriyanto
+[3.1]: https://medium.com/@mheriyanto
+[3.2]: https://dev.to/mheriyanto
 
 [4.1]: https://github.com/mheriyanto/MH1DDC
 [4.2]: https://github.com/mheriyanto/MH1DMT
