@@ -53,39 +53,30 @@ I am also writing articles on [**Medium**][3.1] and [**DEV.to**][3.2].
 </a>
 
 <p align="center">
-
 <a href="https://gitlab.com/mheriyanto">
-<img align="center" title="gitlab" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/gitlab.png?raw=true" height="30" width="30" />
+	<img align="center" title="gitlab" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/gitlab.png?raw=true" height="30" width="30" />
 </a>
-
 <a href="https://hub.docker.com/u/mheriyanto">
-<img align="center" title="docker" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/docker.png?raw=true" height="30" width="30" />
+	<img align="center" title="docker" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/docker.png?raw=true" height="30" width="30" />
 </a>
-
 <a href="https://discuss.pytorch.org/u/mheriyanto/summary">
-<img align="center" title="pytorch" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/pytorch.png?raw=true" height="30" width="30" />
+	<img align="center" title="pytorch" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/pytorch.png?raw=true" height="30" width="30" />
 </a>
-
 <a href="https://stackoverflow.com/questions/tagged/tensorflow">
-<img align="center" title="tensorflow" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/tensorflow.png?raw=true" height="30" width="30" />
+	<img align="center" title="tensorflow" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/tensorflow.png?raw=true" height="30" width="30" />
 </a>
-
 <a href="https://forums.developer.nvidia.com/u/mheriyanto/summary">
-<img align="center" title="nvidia" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/nvidia.png?raw=true" height="30" width="30" />
+	<img align="center" title="nvidia" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/nvidia.png?raw=true" height="30" width="30" />
 </a>
-
 <a href="https://pypi.org/user/mheriyanto/">
-<img align="center" title="pypi.org" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/python.png?raw=true" height="30" width="30" />
+	<img align="center" title="pypi.org" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/python.png?raw=true" height="30" width="30" />
 </a>
-
 <a href="https://www.mathworks.com/matlabcentral/profile/authors/8156443">
-<img align="center" title="matlab" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/matlab.png?raw=true" height="30" width="30" />
+	<img align="center" title="matlab" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/matlab.png?raw=true" height="30" width="30" />
 </a>
-
 <a href="https://stackoverflow.com/questions/tagged/google-coral?tab=Active">
-<img align="center" title="google coral" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/coral.png?raw=true" height="30" width="30" />
+	<img align="center" title="google coral" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/coral.png?raw=true" height="30" width="30" />
 </a>
-
 </p>
 
 ### :computer: Open Source Projects
