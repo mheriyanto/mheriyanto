@@ -59,7 +59,7 @@ I am also writing articles on [**Medium**][3.1] and [**DEV.to**][3.2].
   <code><a href="https://stackoverflow.com/questions/tagged/tensorflow" target="_blank"><img title="TensorFlow" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/tensorflow.png?raw=true"></a></code>
   <code><a href="https://forums.developer.nvidia.com/u/mheriyanto/summary" target="_blank"><img title="Nvidia" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/nvidia.png?raw=true"></a></code>
   <code><a href="https://pypi.org/user/mheriyanto/" target="_blank"><img title="Python" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/python.png?raw=true"></a></code>
-  <code><a href="ttps://www.mathworks.com/matlabcentral/profile/authors/8156443" target="_blank"><img title="MATLAB" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/matlab.png?raw=true"></a></code>  
+  <code><a href="https://www.mathworks.com/matlabcentral/profile/authors/8156443" target="_blank"><img title="MATLAB" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/matlab.png?raw=true"></a></code>  
   <code><a href="https://stackoverflow.com/questions/tagged/google-coral?tab=Active" target="_blank"><img title="Coral" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/coral.png?raw=true"></a></code>
 </p>
 
