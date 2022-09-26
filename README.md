@@ -53,14 +53,14 @@ I am also writing articles on [**Medium**][3.1] and [**DEV.to**][3.2].
 </a>
 
 <p align="center">
-  <code><img title="GitLab" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/gitlab.png?raw=true"></code>
-  <code><img title="Docker" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/docker.png?raw=true"></code>
-  <code><img title="PyTorch" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/pytorch.png?raw=true"></code>
-  <code><img title="TensorFlow" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/tensorflow.png?raw=true"></code>
-  <code><img title="Nvidia" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/nvidia.png?raw=true"></code>
-  <code><img title="Python" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/python.png?raw=true"></code>
-  <code><img title="MATLAB" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/matlab.png?raw=true"></code>  
-  <code><img title="Coral" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/coral.png?raw=true"></code>
+  <code><a href="https://gitlab.com/mheriyanto" target="_blank"><img title="GitLab" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/gitlab.png?raw=true"></a></code>
+  <code><a href="https://hub.docker.com/u/mheriyanto" target="_blank"><img title="Docker" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/docker.png?raw=true"></a></code>
+  <code><a href="https://discuss.pytorch.org/u/mheriyanto/summary" target="_blank"><img title="PyTorch" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/pytorch.png?raw=true"></a></code>
+  <code><a href="https://stackoverflow.com/questions/tagged/tensorflow" target="_blank"><img title="TensorFlow" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/tensorflow.png?raw=true"></a></code>
+  <code><a href="https://forums.developer.nvidia.com/u/mheriyanto/summary" target="_blank"><img title="Nvidia" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/nvidia.png?raw=true"></a></code>
+  <code><a href="https://pypi.org/user/mheriyanto/" target="_blank"><img title="Python" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/python.png?raw=true"></a></code>
+  <code><a href="ttps://www.mathworks.com/matlabcentral/profile/authors/8156443" target="_blank"><img title="MATLAB" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/matlab.png?raw=true"></a></code>  
+  <code><a href="https://stackoverflow.com/questions/tagged/google-coral?tab=Active" target="_blank"><img title="Coral" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/coral.png?raw=true"></a></code>
 </p>
 
 ### :computer: Open Source Projects
