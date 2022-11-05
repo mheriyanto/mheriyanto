@@ -53,6 +53,7 @@ I am also writing articles on [**Medium**][3.1] and [**DEV.to**][3.2].
 </a>
 
 <p align="center">
+   <code><a href="https://www.hackerrank.com/mheriyanto" target="_blank"><img title="HackerRank" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto.github.io/blob/master/assets/icons/hr.png?raw=true"></a></code>
   <code><a href="https://gitlab.com/mheriyanto" target="_blank"><img title="GitLab" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/gitlab.png?raw=true"></a></code>
   <code><a href="https://hub.docker.com/u/mheriyanto" target="_blank"><img title="Docker" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/docker.png?raw=true"></a></code>
   <code><a href="https://discuss.pytorch.org/u/mheriyanto/summary" target="_blank"><img title="PyTorch" height="30" width="30" src="https://github.com/mheriyanto/mheriyanto/blob/master/icons/pytorch.png?raw=true"></a></code>
