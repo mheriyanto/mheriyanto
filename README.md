@@ -39,9 +39,9 @@ I am also writing articles on [**Medium**][3.1] and [**DEV.to**][3.2].
     </p>
 </a>
 
-<p align="center">
+<!--<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mheriyanto&column=8&margin-w=0&theme=matrix&no-bg=true&no-frame=true"> 
-</p>
+</p> -->
 
 <a align="center" href="https://mheriyanto.github.io">
 <details>
